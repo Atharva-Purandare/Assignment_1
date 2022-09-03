@@ -1,0 +1,2 @@
+disp('Hello World');
+console.lof 'Hello World'
